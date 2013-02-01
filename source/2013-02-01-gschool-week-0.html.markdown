@@ -4,3 +4,6 @@ date: 2013-02-01 14:45 -07:00
 tags:
 ---
 
+These are my reflections on the first week....
+
+Phil
