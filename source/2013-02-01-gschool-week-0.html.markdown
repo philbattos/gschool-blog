@@ -1,18 +1,10 @@
 ---
-title: gSchool - Week 0
+title: Reflections from First Week
 date: 2013-02-01 14:45 -07:00
 tags:
 ---
 
-These are my reflections on the first week....
-
-Overall, the first week of gSchool was much like I expected: humbling, challenging, and very exciting
-<!-- 
-    - lots of excitement from meeting so many awesome people!
-    - mixed with the humility that comes from not understanding things as well as the people around me...
-    - mixed with a hint of sheer terror that comes from glimpsing how much there is to learn! 
- -->
-
+Overall, the first week of gSchool was much like I expected: humbling, challenging, and very exciting.
 It has been wonderful to meet so many awesome people! I feel fortunate just to be included in our class, as if i won some kind of code-school lottery. Before the class started, i knew that i would be one of the students with the least knowledge and experience with programming but it has been humbling to *feel* the discomfort of being lost and confused when your colleagues are steadily working along and completing tasks. Even when i am convinced of my own capabilities and potential to learn programming, the feeling of having no clue of how to attack a problem - the complete absence of grok - nudges me with self-doubt and makes me question my decision all the decisions that led me to be in this position. This makes me realize how dependent i am on the kindness and instructions of my peers, which is fairly uncomfortable. I want to *know*; i want to be able to do it myself; and i want to be able to contribute to the class. So, starting at the bottom is humbling and unnerving. 
 
 The first week was relatively smooth but there were some minor challenges that came with starting a new chapter in my life. There were several adjustments that i had to make: changing my daily routine; adjusting to a daily commute; figuring out how to make time for school, my partner, and a little bit of recreation; changing my shopping and eating habits to fit within my new budget; and simply adjusting to the pace and schedule of my new life. I liked the way that the first week was structured to gradually ease us into the schedule and culture of working closely with each other for another 23 weeks. I thought that Improv was a great way to be introduced to each other - and the scavenger hunt was a great activity to help us get to know each other better. 
