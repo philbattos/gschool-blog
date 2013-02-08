@@ -4,14 +4,6 @@ date: 2013-02-08 09:07 -07:00
 tags:
 ---
 
-A basic introduction to the project
-A recap of your work pattern (days, hours, working alone / with others)
-Link to your code repository
-Summary of your results/conclusions
-What worked and you’ll do the same next time
-What didn’t work and you’ll change next time
-
-
 The Event Reporter project was a humbling and challenging endeavor for me. From a programming perspective, the tasks were hard and, when combined with being sick and not being able to find adequate help, i floundered at even putting together some working code. 
 
 I put in sufficient hours to complete the project - probably 11-12 hours a day but at least half of that time was spent studying and practicing coding concepts that were more fundamental than the ones that we were meant to be implementing. In short, i felt like i was trying to do catch-up work while simultaneously trying to complete the project. I worked alone for most of the week, which was partly due to my being sick, partly due to my lack of understanding of some of the basic coding concepts that my colleagues were using, and partly due to my desire to study some of the more basic ideas. I would have liked to have worked more closely with other students - perhaps in a small group throughout the week - but this was difficult for the reasons above and because it seemed that, as soon as the project was assigned, the more advanced students immediately began working on more advanced problems than i could understand. So it was hard to keep up and feel like i was able to contribute anything worthwhile to a group coding effort.
