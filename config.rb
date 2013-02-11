@@ -5,6 +5,9 @@
 # ZURB Foundation
 require "zurb-foundation"
 
+Time.zone = 'US/Mountain'
+# added this (Feb2013)
+
 # Change Compass configuration
 # compass_config do |config|
 #   config.output_style = :compact
