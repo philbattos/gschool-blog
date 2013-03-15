@@ -21,7 +21,6 @@ Anyway, here are some examples of tables, using html tags.
       <th>Women</th>
       <th>Ratio</th>
     </tr>
-  </thread>
   <tbody>
     <tr>
       <th>Students</th>
