@@ -1,0 +1,13 @@
+---
+title: Reflections on Week 15
+date: 2013-05-10 11:10 -06:00
+tags:
+---
+
+This has been a good week for me. I am enjoying the slower pace of the last few projects. I feel like i have made some small progress in understanding Rails and i have been feeling more capable with Ruby. I finished two of the warmups in the time allotted and without any help this week. That felt good. I was looking forward to the warmup on Thursday but it was quite difficult and i haven't been able to get any of the tests to pass.
+
+We started FeedEngine this week. I think we have a great team. This project feels manageable even though there is a lot of complexity with introducing APIs. I think it feels less overwhelming than some earlier projects because the new and challenging parts of the code are mostly restricted to one area: interfacing with APIs. In past projects, there were usually several new concepts and pieces to integrate, and it felt like an overwhelming task to learn them all at once. Working with APIs may be just as technically difficult but it feels easier because we just need to focus on one area of study.
+
+I'm looking forward to getting a job when we are finished with the course but i still feel like i don't know enough to make valuable contributions to an organization. I want to learn more before moving into a work environment. As i look at potential jobs, i am mostly interested in the company's culture. I want to work in a place that is energetic, engaging, and collaborative but i also want to work in a place that will support my continued learning. More than anything else, i want my first job to be in a great learning environment. I expect this will mean that i end up working in a larger company that can support my growth but i am open to anything.
+
+As i think about looking for a job, i anticipate the need to lower an interviewer's expectations of what i can offer. I don't want to walk into a situation where i am expected to handle projects that are way beyond my ability. And i feel like my ability will be significantly below the average ability of my fellow graduates from this course. However, i also don't want to limit myself and hold myself back from getting the best job and/or being ready to perform at a high level from day one. I want to set high expectations for myself... but i also want to be honest during the hiring process so that they know what i'm capable of and i know what their expectations are. So, i guess i need to find some balance there.
