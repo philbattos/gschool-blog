@@ -1,5 +1,5 @@
 ---
-title: Reflections on Week 18: Independent Project
+title: Reflections on Week 18 - Independent Project
 date: 2013-05-31 10:08 -06:00
 tags:
 ---
